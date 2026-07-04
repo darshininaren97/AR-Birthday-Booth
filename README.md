@@ -177,6 +177,10 @@ angle so its orientation matches too.
   roughly 640×480 frame and may look slightly off on other resolutions.
 - Only tracks one hand and one shutter gesture at a time.
 
+  
+> **Note:** This is a beginner computer vision project created as a learning exercise with Python, OpenCV, and MediaPipe. The focus was on understanding the underlying concepts rather than building a production-ready application.
+
+
 ## License
 
 MIT — do whatever you'd like with it. Just don't sell my party hat as NFT art.
