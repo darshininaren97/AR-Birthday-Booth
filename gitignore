@@ -1,0 +1,21 @@
+# generated output
+p*.jpg
+reaction.mp4
+
+# models (large binary files — instruct users to download via README, don't commit)
+*.tflite
+*.task
+
+# python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+env/
+
+# editor / OS cruft
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
