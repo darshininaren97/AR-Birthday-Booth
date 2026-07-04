@@ -27,7 +27,7 @@ index finger at the on-screen camera icon and hold it there.
 Install dependencies:
 
 ```bash
-pip install opencv-python mediapipe numpy
+pip install -r requirements.txt
 ```
 
 ## Setup
@@ -61,7 +61,7 @@ folder as `birthday_cam.py`:
 | `hat.png` | Party hat overlay | Roughly square, hat pointing up, transparent background |
 | `coww.png` | Decorative sticker in the corner | Any transparent PNG works — in the original build this is a cow wearing a party hat, peeking into frame from the corner 🐮🎉 |
 | `cam.png` | Camera / shutter button icon | Should read clearly at ~70×70px |
-> **Note:** The image assets used in this project (e.g., the party hat, cow, and camera icon) were sourced from the internet and are not my original work. All credit belongs to their respective creators.
+
 You can use your own art here, or grab free transparent PNGs from a site
 like [Flaticon](https://www.flaticon.com/) or [PNGEgg](https://www.pngegg.com/).
 
