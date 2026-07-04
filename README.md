@@ -58,7 +58,7 @@ folder as `birthday_cam.py`:
 
 | File | Purpose | Notes |
 |---|---|---|
-| `hat.png` | Party hat overlay | Roughly square, hat pointing up, transparent background |
+| `hat.png` | Party hat overlay | A typical party hat pointing up, transparent background |
 | `coww.png` | Decorative sticker in the corner | Any transparent PNG works — in the original build this is a cow wearing a party hat, peeking into frame from the corner 🐮🎉 |
 | `cam.png` | Camera / shutter button icon | Should read clearly at ~70×70px |
 > **Note:** The image assets used in this project (e.g., the party hat, cow, and camera icon) were sourced from the internet and are not my original work. All credit belongs to their respective creators.
