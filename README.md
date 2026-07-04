@@ -183,4 +183,4 @@ angle so its orientation matches too.
 
 ## License
 
-MIT — do whatever you'd like with it. Just don't sell my party hat as NFT art.
+MIT License. 5... 4... 3... 2... 1... you may now use this code freely.
